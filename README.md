@@ -4,7 +4,7 @@ This repository contains the open source 3D-printable models for a customisable 
 Schillaci, G., Schillaci, F. and Hafner, V.V. A Customisable Underwater Robot, arXiv preprint arXiv:1707.06564. 2017. Link to the paper: <a href="https://arxiv.org/abs/1707.06564" target="_blank">https://arxiv.org/abs/1707.06564 </a>
 
 ## Motivation of Rebuild
-I want to rebuild this drone and use this repo to store additionally source files and for project management.
+I want to rebuild this drone and use this repo to store additional source files and project management.
 In this README I collect information that go beyond the [instructions](./instructions.md) of Schillaci et al. .
 
 
